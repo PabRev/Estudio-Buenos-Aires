@@ -1,0 +1,15 @@
+
+.row{
+    width: 100%;
+}
+.texto-footer{
+    font-size: small;
+    color: darkgray;
+}
+.boton{
+
+    margin: auto;
+    margin-bottom: 1.5rem;
+    width: 70%;
+    
+}
